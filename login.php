@@ -60,5 +60,6 @@ in the HTML comments.
 <!-- Hint: The password is the four character sound a cat
 makes (all lower case) followed by 123. -->
 </p>
+<img src="https://source.unsplash.com/user/erondu/1000x500" alt="Unable to display">
 </div>
 </body>

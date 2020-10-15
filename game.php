@@ -93,6 +93,7 @@ if ( $human == -1 ) {
 }
 ?>
 </pre>
+<img src="https://source.unsplash.com/user/erondu/1000x500" alt="Error Loading">
 </div>
 </body>
 </html>
